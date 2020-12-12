@@ -1,1 +1,3 @@
-# youtube-clone
+# Youtube clone in Vanilla JavaScript
+
+
